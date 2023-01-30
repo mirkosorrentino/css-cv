@@ -7,9 +7,15 @@
 }
 
 /* COMMON */
-
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
 
 /* HEADER */
+.cv-photo {
+    text-align: center;
+}
 
 /* MAIN */
 
